@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[esl:home|Door43 (esl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-esl|d43-esl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-esl/archive/master.zip|d43-esl.zip]]
+
+**Recent Changes**
+{{changes>ns = esl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/esl|Ethnologue data]]
+
